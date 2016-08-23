@@ -31,3 +31,14 @@ Including: location, number of in-house, total value, purchased value, number so
 When customer made a return, FIFO app should be able to push the returned item to the stack and find out the price from purchase order
 
 By end of every week, month and year, it should capture the snapshot and save to database, at the same time sending out emails to company heads with reports attached
+
+-----------------------------------------------------
+
+**GSX Open Repair API**
+
+The app is used to connect to Apple company's GSX API, track customers repair orders 
+
+The data fetching took minutes, so I have set cache code to improve to less than 3 seconds
+
+Angular JS is used to render the data for technicians
+
