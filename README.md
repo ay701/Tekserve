@@ -42,3 +42,14 @@ The data fetching took minutes, so I have set cache code to improve to less than
 
 Angular JS is used to render the data for technicians
 
+-----------------------------------------------------
+
+**Shopkeeper Web Tracker**
+
+A web portal used to record user's login statistics to each page/url, time, ip and browers info
+
+The tool has graph showing top 10 users and webpages
+
+Different options in the menu are used to check different section of statistics
+
+
