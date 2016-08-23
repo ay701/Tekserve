@@ -22,15 +22,15 @@ There might be future addition to the report, please make sure the app is scalab
 
 This app is designed to track all in-stock items information
 
-The app allows the company to find out total in-house value of all inventory item at the current time point 
+The app allows the company to find out total in-house value of all inventory items at the current time point 
 
-Plus, user can click to see the detailed information about any item
+Users can click to see the detailed information on any item, including:
 
-Including: location, number of in-house, total value, purchased value, number sold, manufacturer and other info
+location, number of in-house, total value, purchased value, number sold, manufacturer and other info
 
-When customer made a return, FIFO app should be able to push the returned item to the stack and find out the price from purchase order
+When customer made a return, FIFO app will push the returned item to the stack and find out the price from original purchase order
 
-By end of every week, month and year, it should capture the snapshot and save to database, at the same time sending out emails to company heads with reports attached
+By end of every week, month and year, FIFO app will capture a snapshot and save to the database(MySQL), at the same time it will send out emails to company heads with reports attached
 
 -----------------------------------------------------
 
