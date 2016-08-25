@@ -6,7 +6,9 @@ Some of projects I designed and developed in Tekserve
 
 **Apple Web Report Application**
 
-The goal is to build a web application which allows financial department to overview all Apple products sale performance in the last 4 quarters, including customer information as well
+Angular JS + PHP + CSS3
+
+The goal is to build a web application which allows financial department to overview all Apple products sale performance in the last 4 quarters, including customers information, sales data, etc.
 
 Regardless of the huge amount of dataset, the report should load and display results in a fairly fast speed
 
