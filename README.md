@@ -7,6 +7,7 @@ Some of projects I designed and developed in Tekserve
 **Apple Web Report Application**
 
 Front-End : Angular JS + PHP + CSS3
+
 Back-End : Factory, Singleton design patterns, LinkedList 
 
 The goal is to build a web application which allows financial department to overview all Apple products sale performance in the last 4 quarters, including customers information, sales data, etc.
@@ -24,6 +25,7 @@ There might be future addition to the report, please make sure the app is scalab
 **FIFO Inventory Tracking App**
 
 Front-End : Angular JS + jQuery + PHP + CSS3
+
 Back-End : Singleton, Observer design patterns
 
 This app is designed to track all in-stock items information
