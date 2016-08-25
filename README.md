@@ -58,6 +58,8 @@ Angular JS is used to render the data for technicians
 
 **Shopkeeper Web Tracker**
 
+Front-End : Javascript + JQuery + AngularJS + D3.js + PHP + CSS3
+
 A web portal used to record user's login statistics to each page/url, time, ip and browers info
 
 The tool has graph showing top 10 users and webpages
