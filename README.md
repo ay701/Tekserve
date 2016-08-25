@@ -10,7 +10,9 @@ Front-End : Angular JS + PHP + CSS3
 
 Back-End : Factory, Singleton design patterns, LinkedList 
 
-The goal is to build a web application which allows financial department to overview all Apple products sale performance in the last 4 quarters, including customers information, sales data, etc.
+The goal :
+
+To build a web application which allows financial department to overview all Apple products sale performance in the last 4 quarters, including customers information, sales data, etc.
 
 Regardless of the huge amount of dataset, the report should load and display results in a fairly fast speed
 
@@ -27,6 +29,8 @@ There might be future addition to the report, please make sure the app is scalab
 Front-End : Angular JS + jQuery + PHP + CSS3
 
 Back-End : Singleton, Observer design patterns
+
+The goal :
 
 This app is designed to track all in-stock items information
 
