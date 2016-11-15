@@ -2,11 +2,11 @@
 
 /**
 * @description
-* This code is used by Apple report with AJAX call
+* This code is used by Apple report with AngularJS service
 * It builds json object & passed back to AngularJS to process
 * @author Aizizi Yigaimu
-* @started 2015-11-18
-* @last update 2016-02-18
+* @started 2016-08-18
+* @last update 2016-09-18
 */
 
 require "common.php";
